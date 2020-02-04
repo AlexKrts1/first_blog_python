@@ -3,5 +3,6 @@
 __pycache__
 myvenv
 db.sqlite3
+api_token.txt
 /static
 .DB_Store
